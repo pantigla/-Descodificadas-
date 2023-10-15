@@ -1,2 +1,2 @@
 # -Descodificadas-
-Atividades do curso
+Projetos do curso
